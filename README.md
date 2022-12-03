@@ -5,7 +5,7 @@ In particular this is going to record my progress in learning a new language: C+
 
 # Achievements
 
-- \The runtime of my solution to Medium #7 beats 100% C ++ submissions 
+- The runtime of my solution to Medium #7 beats 100% C ++ submissions 
 
 # Solved Problems
 
