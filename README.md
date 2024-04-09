@@ -17,3 +17,7 @@ In particular this is going to record my progress in learning a new language: C+
 
 - \#7 Reverse Integer
 
+## Hard
+
+- \#4 Median of Two Sorted Arrays
+
