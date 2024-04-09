@@ -7,8 +7,8 @@ In particular, this will record my progress in learning new languages: C++ for n
 
 The runtime to the following beats 100% of C ++ submissions:
 
-    - \#2073 Time Needed to Buy Tickets
-    - \#7 Reverse Integer
+- \#2073 Time Needed to Buy Tickets
+- \#7 Reverse Integer
 
 # Solved Problems
 
