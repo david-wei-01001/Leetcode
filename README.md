@@ -5,7 +5,7 @@ In particular, this is going to record my progress in learning a new language: C
 
 # Achievements
 
-- The runtime to the following beats 100% of C ++ submissions:
+The runtime to the following beats 100% of C ++ submissions:
     - \#2073 Time Needed to Buy Tickets
     - \#7 Reverse Integer
 
