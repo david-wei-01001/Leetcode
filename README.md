@@ -12,7 +12,8 @@ In particular, this is going to record my progress in learning a new language: C
 # Solved Problems
 
 ## Easy
--\# 2 Two Sum
+
+-\#2 Two Sum
 - \#1704 Determine if String Halves Are Alike
 - \#2073 Time Needed to Buy Tickets
 
