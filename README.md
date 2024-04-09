@@ -5,13 +5,16 @@ In particular this is going to record my progress in learning a new language: C+
 
 # Achievements
 
-- The runtime of my solution to Medium #7 beats 100% of C ++ submissions 
+- The runtime of my solution to the following beats 100% of C ++ submissions:
+    - \#2073 Time Needed to Buy Tickets
+    - \#7 Reverse Integer
 
 # Solved Problems
 
 ## Easy
 
 - \#1704 Determine if String Halves Are Alike
+- \#2073 Time Needed to Buy Tickets
 
 ## Medium
 
