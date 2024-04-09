@@ -1,11 +1,12 @@
 # Leetcode
 This Repository will record all my solutions to Leetcode Problems.
 
-In particular, this is going to record my progress in learning a new language: C++ for now.
+In particular, this will record my progress in learning new languages: C++ for now.
 
 # Achievements
 
 The runtime to the following beats 100% of C ++ submissions:
+
     - \#2073 Time Needed to Buy Tickets
     - \#7 Reverse Integer
 
