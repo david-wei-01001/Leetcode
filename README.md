@@ -21,6 +21,7 @@ The runtime to the following beats 100% of C ++ submissions:
 
 ## Medium
 
+- \#2 Add Two Numbers
 - \#7 Reverse Integer
 - \#950 Reveal Cards in Increasing Order
 
