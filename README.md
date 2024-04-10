@@ -22,6 +22,7 @@ The runtime to the following beats 100% of C ++ submissions:
 ## Medium
 
 - \#7 Reverse Integer
+- \#950 Reveal Cards in Increasing Order
 
 ## Hard
 
