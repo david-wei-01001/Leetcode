@@ -2,26 +2,25 @@ class Solution {
 public:
     vector<int> deckRevealedIncreasing(vector<int>& deck) {
         sort(deck.begin(), deck.end(), less<int>());
-        vector<int> to_return(deck.size(), 0);
-        vector<int> indecies(deck.size(), 0);
-        for (int i = 0; i< deck.size(); i++)
+        int size = deck.size();
+        vector<int> to_return(size);
+        deque<int> indecies;
+        for (int i = 0; i < size; i++)
         {
-            indecies[i] = i;
+            indecies.push_back(i);
         }
         int count = 0;
         int ind;
         while (indecies.size() > 1)
         {
-            ind  = indecies[0];
-            indecies.erase(indecies.begin());
+            ind = indecies.front();
+            indecies.pop_front();
             to_return[ind] = deck[count];
-            ind  = indecies[0];
-            indecies.erase(indecies.begin());
-            indecies.push_back(ind);
+            indecies.push_back(indecies.front());
+            indecies.pop_front();
             count++;
         }
-        ind  = indecies[0];
-        to_return[ind] = deck[count];
+        to_return[indecies.front()] = deck[count];
         return to_return;
     }
 };
