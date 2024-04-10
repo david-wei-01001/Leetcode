@@ -8,6 +8,7 @@ In particular, this will record my progress in learning new languages: C++ for n
 The runtime to the following beats 100% of C ++ submissions:
 
 - \#7 Reverse Integer
+- \#950 Reveal Cards in Increasing Order
 - \#1704 Determine if String Halves Are Alike
 - \#2073 Time Needed to Buy Tickets
 
