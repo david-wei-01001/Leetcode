@@ -24,6 +24,7 @@ The runtime to the following beats 100% of C ++ submissions:
 
 - \#2 Add Two Numbers
 - \#7 Reverse Integer
+- \#402 Remove K Digits
 - \#950 Reveal Cards in Increasing Order
 
 ## Hard
